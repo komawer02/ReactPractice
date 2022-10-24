@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(218, 243, 243);
+
+}
+
+.frame1{
+    margin: 2rem;
+    border-radius: 15px;
+    padding: 1rem;
+    background-color: rgb(190, 229, 229);
+    display: block;
+}
+
+#who{
+    color: blue;
+    font-weight: bold;
+}
+
+#text{
+    color:gray;
+}

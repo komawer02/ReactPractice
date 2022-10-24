@@ -1,0 +1,16 @@
+#clockframe{
+    border: 2px dotted yellow;
+    box-sizing: content-box;
+    width: 40%;
+    padding: 10px;
+}
+.time{
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: rgb(0, 154, 250);
+}
+.date{
+    font-size: 1.1rem;
+    color: rgb(50, 0, 250);
+    padding-top: 0.3cm;
+}
